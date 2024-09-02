@@ -1,0 +1,35 @@
+﻿.button {
+    height :100px;
+    width:296px;
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    background-color: lightpink;
+    font-size: 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 700;
+}
+.title {
+    text-align: center;
+    margin-top: 100px;
+}
+.center {
+    text-align: center;
+    margin-top: 0px;
+}
+.button2 {
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    background-color: lightpink;
+    font-size: 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 700;
+}
+.label {
+    height: 300px;
+    width: 400px;
+    font-size: 50px;
+}
